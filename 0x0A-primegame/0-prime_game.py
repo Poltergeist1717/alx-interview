@@ -1,5 +1,7 @@
 #!/usr/bin/python3
+
 """ Prime Game Algorithm Python """
+
 
 def is_prime(n):
     """ Checks if a number given n is a prime number """
